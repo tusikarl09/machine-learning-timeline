@@ -1,0 +1,169 @@
+{
+  "title": {
+    "media": {
+      "url": "",
+      "caption": "",
+      "credit": ""
+    },
+    "text": {
+      "headline": "Evolution of Machine Learning<br/>1943 - 2022",
+      "text": "<p>A timeline showing major milestones in the evolution of machine learning, from the first mathematical model of an artificial neuron to the rise of modern generative AI.</p>"
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Mcculloch-pitts-neuron-model.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+        "caption": "A diagram representing the McCulloch-Pitts artificial neuron model.",
+        "credit": "Wikimedia Commons"
+      },
+      "start_date": {
+        "year": "1943"
+      },
+      "text": {
+        "headline": "McCulloch & Pitts Artificial Neuron",
+        "text": "<p>In 1943, Warren McCulloch and Walter Pitts introduced a mathematical model of an artificial neuron. Their work showed how simplified neurons could process information using mathematical and logical operations. This idea became one of the early foundations of artificial neural networks and later machine learning.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Alan_Turing_%281951%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+        "caption": "Portrait of Alan Turing, taken in 1951.",
+        "credit": "Elliott & Fry via Wikimedia Commons"
+      },
+      "start_date": {
+        "year": "1950"
+      },
+      "text": {
+        "headline": "Alan Turing and Machine Intelligence",
+        "text": "<p>In 1950, Alan Turing published the paper <i>Computing Machinery and Intelligence</i>, which explored the question: Can machines think? He proposed what later became known as the Turing Test, a method for evaluating whether a machine could demonstrate human-like intelligent behavior through conversation. Turing's ideas became an important foundation for the field of artificial intelligence.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://assets.ibm.com/is/image/ibm/5322_as_playingcheckers:4x3?dpr=on%2C1.25&wid=960&hei=720",
+        "caption": "Arthur Samuel and his pioneering work on a computer checkers program.",
+        "credit": "IBM"
+      },
+      "start_date": {
+        "year": "1952"
+      },
+      "text": {
+        "headline": "Arthur Samuel's Checkers Program",
+        "text": "<p>In 1952, Arthur Samuel developed one of the earliest computer programs capable of playing checkers. The program became significant because Samuel later improved it to learn from experience and play better over time. His work demonstrated an early example of a machine improving its performance through learning and helped shape the development of machine learning.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Rosenblattperceptron.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+        "caption": "A diagram of Rosenblatt's Perceptron, an early artificial neural network capable of learning simple classification tasks.",
+        "credit": "Wikimedia Commons"
+      },
+      "start_date": {
+        "year": "1957"
+      },
+      "text": {
+        "headline": "The Perceptron",
+        "text": "<p>In 1957, psychologist and computer scientist Frank Rosenblatt introduced the Perceptron, an early artificial neural network designed to learn patterns from data. The Perceptron adjusted its weights based on input and output results, allowing it to learn simple classification tasks. Rosenblatt's work became an important foundation for modern neural networks and machine learning.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://0.academia-photos.com/attachment_thumbnails/50552648/mini_magick20190128-10617-wm32y2.png?1548737294",
+        "caption": "Arthur Samuel's 1959 paper, Some Studies in Machine Learning Using the Game of Checkers.",
+        "credit": "Arthur L. Samuel, IBM Journal of Research and Development (1959)"
+      },
+      "start_date": {
+        "year": "1959"
+      },
+      "text": {
+        "headline": "The Term Machine Learning",
+        "text": "<p>In 1959, Arthur Samuel popularized the term <i>machine learning</i> while working on his checkers-playing program at IBM. He described machine learning as the field of study that gives computers the ability to learn without being explicitly programmed for every task. This idea became one of the fundamental concepts behind modern machine learning.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://pic.caixin.com/beditor/blog/upload/5a4fb98fb1275fa3f0cded0531a92ad6a76ca7683fbce7bf7aa14070c6a57682.jpg",
+        "caption": "The 1986 paper Learning representations by back-propagating errors and the researchers associated with the work.",
+        "credit": "Rumelhart, Hinton, and Williams (1986)"
+      },
+      "start_date": {
+        "year": "1986"
+      },
+      "text": {
+        "headline": "Backpropagation Revitalizes Neural Networks",
+        "text": "<p>In 1986, David Rumelhart, Geoffrey Hinton, and Ronald Williams published influential work showing how backpropagation could efficiently train multi-layer neural networks. Backpropagation calculates how much each connection in a network contributed to an error and adjusts the weights to reduce that error. This breakthrough made it more practical to train neural networks with multiple layers and became a fundamental technique in modern deep learning.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://images.computerhistory.org/chess/kasparov-hsu-game-1-deep-blue-vs-kasparov-nyc-1997.102645300.newborn.jpg?w=600",
+        "caption": "Garry Kasparov and IBM researcher Feng-Hsiung Hsu at the chessboard during the 1997 Deep Blue rematch.",
+        "credit": "Monroe Newborn / Computer History Museum"
+      },
+      "start_date": {
+        "year": "1997"
+      },
+      "text": {
+        "headline": "IBM Deep Blue Defeats Garry Kasparov",
+        "text": "<p>In 1997, IBM's Deep Blue defeated world chess champion Garry Kasparov in a six-game match. Deep Blue used powerful computers, specialized chess hardware, advanced search algorithms, and chess evaluation techniques to analyze possible moves and positions. Its victory became a historic milestone, demonstrating that computers could defeat the world's best human players in complex strategic games.</p>"
+      }
+    },
+    { 
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Alexnet.png",
+        "caption": "A diagram of the AlexNet architecture, showing its convolutional and fully connected layers.",
+        "credit": "Wikimedia Commons"
+      },
+      "start_date": {
+        "year": "2012"
+      },
+      "text": {
+        "headline": "AlexNet Sparks the Deep Learning Revolution",
+        "text": "<p>In 2012, Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton introduced AlexNet, a deep convolutional neural network that achieved a major breakthrough in the ImageNet image recognition competition. Using a large neural network and GPU-based training, AlexNet significantly improved image classification performance and demonstrated the potential of deep learning for large-scale real-world problems. Its success helped accelerate the modern deep learning revolution.</p>"
+      }
+    },
+    { 
+      "media": {
+        "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AlphaGo_hero.width-1300.jpg",
+        "caption": "AlphaGo, DeepMind's artificial intelligence system that defeated Go champion Lee Sedol in 2016.",
+        "credit": "Google DeepMind"
+      },
+      "start_date": {
+        "year": "2016"
+      },
+      "text": {
+        "headline": "AlphaGo Defeats Lee Sedol",
+        "text": "<p>In 2016, DeepMind's AlphaGo defeated legendary Go player Lee Sedol 4–1 in a historic five-game match. AlphaGo combined deep neural networks, reinforcement learning, and advanced search techniques. After learning from expert human games, it improved further through self-play. Its victory demonstrated the power of machine learning and became a major milestone in modern artificial intelligence.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Attention_Is_All_You_Need_-_Encoder-decoder_Architecture.png",
+        "caption": "The encoder-decoder architecture of the Transformer, introduced in the 2017 paper Attention Is All You Need.",
+        "credit": "Wikimedia Commons"
+      },
+      "start_date": {
+        "year": "2017"
+      },
+      "text": {
+        "headline": "The Transformer Architecture",
+        "text": "<p>In 2017, researchers introduced the Transformer architecture in the paper <i>Attention Is All You Need</i>. The Transformer used attention mechanisms to identify important relationships between different parts of a sequence and allowed more parallel processing than many earlier sequence models. This architecture became the foundation for many modern large language models and played a major role in the development of generative AI.</p>"
+      }
+    },
+    { 
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg",
+        "caption": "The ChatGPT logo, representing the rise of conversational generative AI.",
+        "credit": "OpenAI / Wikimedia Commons"
+      },
+      "start_date": {
+        "year": "2022"
+      },
+      "text": {
+        "headline": "ChatGPT and the Generative AI Boom",
+        "text": "<p>In November 2022, OpenAI introduced ChatGPT, making advanced conversational generative AI widely accessible to the public. Built on large language model technology and the Transformer architecture, ChatGPT allowed users to interact with AI through natural conversation. Its rapid adoption increased global interest in generative AI and demonstrated how large language models could assist with education, programming, writing, research, and many other tasks.</p>"
+      }
+    }
+  ]
+}
